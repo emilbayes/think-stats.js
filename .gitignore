@@ -6,10 +6,25 @@ lib-cov
 *.out
 *.pid
 *.gz
+*.idea
 
 pids
 logs
 results
+dump
 
 npm-debug.log
 node_modules
+.sass-cache
+ 
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Thumbnails
+._*
+ 
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
